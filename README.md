@@ -1,11 +1,12 @@
 ✅**Managing Security in Google Cloud**
 
-✅**Mitigating Security Vulnerabilities on Google Cloud**
+**Mitigating Security Vulnerabilities on Google Cloud**
 
-✅**Security & Identity Fundamentals**
+**Security & Identity Fundamentals**
 
-✅**Google Kubernetes Engine Best Practices: Security**
+**Google Kubernetes Engine Best Practices: Security**
 
-✅**Implement CI/CD Pipelines on Google Cloud**
+**Implement CI/CD Pipelines on Google Cloud**
 
-✅**DevOps Essentials**
+**DevOps Essentials**
+
