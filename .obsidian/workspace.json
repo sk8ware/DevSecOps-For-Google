@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevSecOps For Google.md",
+                "file": "Managing Security in Google Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevSecOps For Google"
+              "title": "Managing Security in Google Cloud"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevSecOps For Google.md",
+                "file": "Managing Security in Google Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de DevSecOps For Google"
+              "title": "Enlaces entrantes de Managing Security in Google Cloud"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevSecOps For Google.md",
+                "file": "Managing Security in Google Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de DevSecOps For Google"
+              "title": "Enlaces salientes de Managing Security in Google Cloud"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevSecOps For Google.md",
+                "file": "Managing Security in Google Cloud.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de DevSecOps For Google"
+              "title": "Esquema de Managing Security in Google Cloud"
             }
           }
         ]
@@ -171,7 +171,7 @@
   },
   "active": "7e80afa81e39c848",
   "lastOpenFiles": [
-    "README.md",
-    "DevSecOps For Google.md"
+    "Modules.md",
+    "Managing Security in Google Cloud.md"
   ]
 }
