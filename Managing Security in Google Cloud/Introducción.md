@@ -1,4 +1,5 @@
-Bienvenido y Guía de inicio
+### Bienvenido a la Guía de inicio
+
 ¡Bienvenido a Gestión de la seguridad en Google Cloud!
 Al inscribirse en este curso, se unirá a una comunidad internacional de analistas, arquitectos e ingenieros de seguridad de la información en la nube.
 analistas, arquitectos e ingenieros de seguridad de la información en la nube, especialistas en seguridad de la información/ciberseguridad y
@@ -14,5 +15,3 @@ Los cuatro módulos de aprendizaje de este curso son:
 2. Cómo proteger el acceso a Google Cloud
 3. Gestión de identidades y acceso (IAM)
 4. Configuración de la nube privada virtual para el aislamiento y la seguridad
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
